@@ -1,0 +1,2 @@
+[0108/175133.447:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\GBOTEL~1.ALV\AppData\Local\Temp\karma-81218351\Crashpad: The system cannot find the path specified. (0x3)
+[0108/175901.661:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\GBOTEL~1.ALV\AppData\Local\Temp\karma-29989594\Crashpad: The system cannot find the path specified. (0x3)
